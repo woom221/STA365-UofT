@@ -10,3 +10,7 @@ Implemented a simple algorithm to perform AB-testing and the Multi-Armed Bayesia
 Part 1: Derivation of Normal Posterior Distribution using Normal Prior and Likelihood
 
 Part 2: Analysis in Classic Bayes
+
+## HW3
+
+Using PyMC and Hamiltonian Monte Carlo, made a simple analysis on Penguin data
