@@ -14,3 +14,7 @@ Part 2: Analysis in Classic Bayes
 ## HW3
 
 Using PyMC and Hamiltonian Monte Carlo, made a simple analysis on Penguin data
+
+## HW4
+
+Performed analysis on Hamiltonian Monte Carlo and made simple analogous report on model diagnostics.
