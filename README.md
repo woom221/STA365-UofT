@@ -18,3 +18,7 @@ Using PyMC and Hamiltonian Monte Carlo, made a simple analysis on Penguin data
 ## HW4
 
 Performed analysis on Hamiltonian Monte Carlo and made simple analogous report on model diagnostics.
+
+## HW5
+
+Conducted Bayesian Regression Analysis and implemented MVN-LKJ model for practice
