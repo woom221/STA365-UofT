@@ -22,3 +22,7 @@ Performed analysis on Hamiltonian Monte Carlo and made simple analogous report o
 ## HW5
 
 Conducted Bayesian Regression Analysis and implemented MVN-LKJ model for practice
+
+## HW6
+
+Conducted various regression analysis such as Logistic Regression and Ridge/Lesso Regression
