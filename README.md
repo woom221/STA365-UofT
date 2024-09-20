@@ -26,3 +26,7 @@ Conducted Bayesian Regression Analysis and implemented MVN-LKJ model for practic
 ## HW6
 
 Conducted various regression analysis such as Bayesian Logistic Regression and derivation of Ridge/Lasso Regression
+
+## HW7
+
+Answering questions regarding Posterior Predictive Distributions and Missing Data Imputation
