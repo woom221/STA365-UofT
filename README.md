@@ -3,7 +3,7 @@ Assignments from STA365 class from the University of Toronto
 
 ## Project
 
-Performed MCMC analysis on Normal Mixture Model to conduct Weather Forecast
+Performed MCMC sampling on Normal Mixture Model to conduct Weather Forecast
 
 ## HW1
 
